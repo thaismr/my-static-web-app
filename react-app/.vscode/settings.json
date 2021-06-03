@@ -1,5 +1,5 @@
 {
-    "staticWebApps.appSubpath": "/",
+    "staticWebApps.appSubpath": "react-app",
     "staticWebApps.apiSubpath": "api",
-    "staticWebApps.outputSubpath": "public"
+    "staticWebApps.outputSubpath": "build"
 }
